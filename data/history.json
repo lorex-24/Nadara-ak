@@ -1,0 +1,21 @@
+[
+  {
+    "userid": "100040167080380",
+    "prefix": "",
+    "admin": [
+      ""
+    ],
+    "blacklist": [],
+    "enableCommands": [
+      {
+        "commands": [
+          "ai"
+        ]
+      },
+      {
+        "handleEvent": []
+      }
+    ],
+    "time": 121
+  }
+]
